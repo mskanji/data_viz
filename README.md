@@ -1,5 +1,5 @@
 # data_viz </br>
-GTA:Global Terrorism Attack 
+GTA:Global Terrorism Attack</br> 
 please run global.R befor runing application . \\ 
 the data base is aploaded from kaggle from the URL= "" . \\ 
 the main goal of this project is to visualize data using big-data item "spark" and managing it with SQLite.\\
